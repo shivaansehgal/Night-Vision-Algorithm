@@ -1,4 +1,8 @@
 # Night-Vision-Algorithm
+| Ground Truth             |  Original Image           | Output from our Model|
+:-------------------------:|:-------------------------:|:-------------------------:
+![gt1](/images/10003_00_100_gt.png)  | ![ori1](/images/10003_00_100_ori.png) | ![out1](/images/10003_00_100_out.png)
+
 
 ### Dataset:
 
@@ -43,7 +47,6 @@ Seeing in the Dark (SID) dataset consists of 5094 pairs of short-exposure and lo
 
 | Ground Truth             |  Original Image           | Output from our Model|
 :-------------------------:|:-------------------------:|:-------------------------:
-![gt1](/images/10003_00_100_gt.png)  | ![ori1](/images/10003_00_100_ori.png) | ![out1](/images/10003_00_100_out.png)
 ![gt2](/images/10016_00_250_gt.png)  | ![ori2](/images/10016_00_250_ori.png) | ![out2](/images/10016_00_250_out.png)
 ![gt3](/images/10074_00_300_gt.png)  | ![ori3](/images/10074_00_300_ori.png) | ![out3](/images/10074_00_300_out.png)
 ![gt4](/images/10167_00_300_gt.png)  | ![ori4](/images/10167_00_300_ori.png) | ![out4](/images/10167_00_300_out.png)
